@@ -1,3 +1,5 @@
+//Program to display the character on the given index number in a string.
+
 package stringprblms;
 
 import java.util.Scanner;
@@ -28,3 +30,11 @@ public class DisplayCharacterAtGivenIndexValue
 		System.out.println("The character displayed at index value 5 = " + str.charAt(5));
 	}
 }
+
+/*
+OUTPUT :
+
+Enter a 10 letter word : qwertyuiop
+The character displayed at index value 5 = y
+
+*/
