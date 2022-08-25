@@ -28,3 +28,12 @@ public class CountCharactersInString {
 
 }
 
+/*
+
+OUTPUT:
+
+Enter a word = Nashik
+No. of characters in the given string are = 6
+
+*/
+
