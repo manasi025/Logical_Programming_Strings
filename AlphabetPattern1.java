@@ -17,3 +17,15 @@ public class AlphabetPattern1
 		}
 	}
 }
+
+/*
+
+OUTPUT :
+
+A
+AB
+ABC
+ABCD
+ABCDE
+
+*/
